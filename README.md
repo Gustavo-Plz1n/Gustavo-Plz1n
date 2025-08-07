@@ -1,10 +1,8 @@
 ## Hello! I'm Gustavo Feliciano👋
-
-- 🔭 I’m currently working on FullStack Dev ...
-- 🌱 I’m currently learning React Js ...
-- 👯 I’m collaborate on Group Software...
-- DCPT in progress...
-
+Red Team
+- DCPT
+- OSCP in progress..
+- CRTP in progress..
 
 
 ![Gustavo-Plz1n GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Plz1n&show_icons=true&theme=dark)
