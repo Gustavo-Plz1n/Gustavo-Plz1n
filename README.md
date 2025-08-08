@@ -1,6 +1,7 @@
 ## Hello! I'm Gustavo Feliciano👋
 Red Team
 - DCPT
+- CRTA
 - OSCP in progress..
 - CRTP in progress..
 
