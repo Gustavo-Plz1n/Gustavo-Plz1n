@@ -1,10 +1,10 @@
 ## Hello! I'm Gustavo Feliciano👋
 Red Team
 - DCPT
+- CRTP
 - CRTA
+- CRT-ID
 - OSCP in progress..
-- CRTP in progress..
-
 
 ![Gustavo-Plz1n GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Plz1n&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Plz1n&layout=compact&langs_count=16&theme=dark)](https://github.com/Gustavo-Plz1n/github-readme-stats)
