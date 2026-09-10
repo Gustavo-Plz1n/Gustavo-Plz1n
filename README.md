@@ -1,5 +1,7 @@
 ## Hello! I'm Gustavo Feliciano👋
 Red Team
+- CRTL
+- CRTO
 - DCPT
 - CRTP
 - CRTA
